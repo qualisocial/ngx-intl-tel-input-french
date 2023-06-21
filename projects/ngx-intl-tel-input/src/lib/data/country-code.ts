@@ -121,7 +121,7 @@ export class CountryCode {
 			'375'
 		],
 		[
-			'Belgium (België)',
+			'Belgique',
 			CountryISO.Belgium,
 			'32'
 		],
